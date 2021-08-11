@@ -20,7 +20,7 @@
     "vue": "^2.5.2",
     "vue-cookie": "^1.1.4",
     "vue-gh-pages": "^1.7.1",
-    "vue-router": "^3.0.1",
+    "vue-router": "^3.5.2",
     "vuetify": "^0.16.7"
   },
   "devDependencies": {
