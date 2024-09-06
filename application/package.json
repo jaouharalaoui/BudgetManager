@@ -19,7 +19,7 @@
     "axios": "^0.16.2",
     "vue": "^2.5.2",
     "vue-cookie": "^1.1.4",
-    "vue-gh-pages": "^1.7.1",
+    "vue-gh-pages": "^1.18.2",
     "vue-router": "^3.0.1",
     "vuetify": "^0.16.7"
   },
