@@ -38,10 +38,10 @@
   },
   "dependencies": {
     "bcrypt": "^1.0.3",
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.3",
     "consign": "^0.1.6",
     "cors": "^2.8.4",
-    "express": "^4.16.2",
+    "express": "^4.21.0",
     "jsonwebtoken": "^8.1.0",
     "module-alias": "^2.0.1",
     "mongoose": "^4.12.2",
