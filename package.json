@@ -37,11 +37,11 @@
     "@config": "./services/BudgetManagerAPI/config/index.js"
   },
   "dependencies": {
-    "bcrypt": "^1.0.3",
-    "body-parser": "^1.18.2",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.4",
     "consign": "^0.1.6",
     "cors": "^2.8.4",
-    "express": "^4.16.2",
+    "express": "^4.22.0",
     "jsonwebtoken": "^8.1.0",
     "module-alias": "^2.0.1",
     "mongoose": "^4.12.2",
